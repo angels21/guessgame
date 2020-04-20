@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\startng\CSharp\Task3\game\guessgame\obj\MCD\Debug\netcoreapp3.1\guessgame.csprojAssemblyReference.cache
+C:\Users\user\Desktop\startng\CSharp\Task3\game\guessgame\obj\MCD\Debug\netcoreapp3.1\guessgame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\startng\CSharp\Task3\game\guessgame\obj\MCD\Debug\netcoreapp3.1\guessgame.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\startng\CSharp\Task3\game\guessgame\obj\MCD\Debug\netcoreapp3.1\guessgame.AssemblyInfo.cs
+C:\Users\user\Desktop\startng\CSharp\Task3\game\guessgame\bin\MCD\Debug\netcoreapp3.1\guessgame.exe
+C:\Users\user\Desktop\startng\CSharp\Task3\game\guessgame\bin\MCD\Debug\netcoreapp3.1\guessgame.deps.json
+C:\Users\user\Desktop\startng\CSharp\Task3\game\guessgame\bin\MCD\Debug\netcoreapp3.1\guessgame.runtimeconfig.json
+C:\Users\user\Desktop\startng\CSharp\Task3\game\guessgame\bin\MCD\Debug\netcoreapp3.1\guessgame.runtimeconfig.dev.json
+C:\Users\user\Desktop\startng\CSharp\Task3\game\guessgame\bin\MCD\Debug\netcoreapp3.1\guessgame.dll
+C:\Users\user\Desktop\startng\CSharp\Task3\game\guessgame\bin\MCD\Debug\netcoreapp3.1\guessgame.pdb
+C:\Users\user\Desktop\startng\CSharp\Task3\game\guessgame\obj\MCD\Debug\netcoreapp3.1\guessgame.dll
+C:\Users\user\Desktop\startng\CSharp\Task3\game\guessgame\obj\MCD\Debug\netcoreapp3.1\guessgame.pdb
+C:\Users\user\Desktop\startng\CSharp\Task3\game\guessgame\obj\MCD\Debug\netcoreapp3.1\guessgame.genruntimeconfig.cache
