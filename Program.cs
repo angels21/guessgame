@@ -54,7 +54,7 @@ namespace guessgame
                             Console.WriteLine("There are 3 levels: easy, medium and hard");
                         }                                     
                     }
-                    Console.WriteLine("Press enter to return to the main menu and restart the game");
+                    Console.ReadLine();
                 }
                 else if(Difficulty == difficultyMedium[y])
                 {   
@@ -88,7 +88,7 @@ namespace guessgame
                             Console.WriteLine("There are 3 levels: easy, medium and hard");
                         }                                    
                     }
-                    Console.WriteLine("Press enter to return to the main menu and restart the game");
+                    Console.ReadLine();
                 }
                 else if(Difficulty == difficultyHard[z])
                 {   
@@ -125,8 +125,7 @@ namespace guessgame
                     Console.ReadLine();
                 }
                 else if (Difficulty != difficultyEasy[x] || Difficulty != difficultyMedium[y] || Difficulty != difficultyHard[z])
-                    Console.WriteLine("Invalid selection: There are three levels: Easy, Medium and Hard");
-                    Console.WriteLine("Press enter to return to the main menu and restart the game");    
+                    Console.WriteLine("Invalid selection: There are three levels: Easy, Medium and Hard");  
         }
     }                   
 }
