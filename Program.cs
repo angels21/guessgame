@@ -120,7 +120,6 @@ namespace guessgame
                     Console.ReadLine();
 
                 }
-
                 else if (Difficulty != difficultyEasy[x] || Difficulty != difficultyMedium[y] || Difficulty != difficultyHard[z])
                     Console.WriteLine("Invalid selection");
                     Console.ReadLine();
